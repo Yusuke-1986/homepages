@@ -1,6 +1,8 @@
 # Developmentページ
 
-これはマークダウンで書かれたページです。
+TBD:そのうち
 
-- リスト
-- **太字**
+- APIs
+- Python programs
+- github repositories
+- ideas
