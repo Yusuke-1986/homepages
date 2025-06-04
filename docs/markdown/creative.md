@@ -45,5 +45,17 @@
             <img src="/images/カーネーションちゃん.png">
             <p>カーネーションちゃん。</p>
         </div>
+        <div class="grid-item">
+            <img src="/images/ウンベラータちゃん.png">
+            <p>フィカス・ウンベラータちゃん。</p>
+        </div>
+        <div class="grid-item">
+            <img src="/images/モリスちゃん.png">
+            <p>アカンサス・モリスちゃん。</p>
+        </div>
+        <div class="grid-item">
+            <img src="/images/ローレルちゃん.png">
+            <p>ローレルちゃん。</p>
+        </div>
     </div>
 </details>
